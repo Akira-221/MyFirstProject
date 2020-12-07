@@ -1,3 +1,2 @@
 # MyFirstProject
-This is my first project
-print('Hello world!')
+This is my first project here.
