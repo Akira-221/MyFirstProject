@@ -1,2 +1,2 @@
-# MyFirstProject
-This is my first project here.
+# MySQL Learning Notes
+This is my MySQL learning notes.
